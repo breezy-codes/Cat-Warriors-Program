@@ -1,0 +1,53 @@
+// Ships
+BITMAP, calypso, calypso.png
+BITMAP, electra, electra.png
+BITMAP, lyra, lyra.png
+
+
+// Planets
+BITMAP, neptune, neptune.png
+BITMAP, saturn, saturn.png
+BITMAP, pluto, pluto.png
+BITMAP, mercury, mercury.png
+BITMAP, asteroid, asteroid.png
+BITMAP, space_rock, space_rock.png
+
+
+// Cats
+BITMAP, phoebe, phoebe.png
+BITMAP, molly, molly.png
+BITMAP, norman, norman.png
+BITMAP, chester, chester.png
+BITMAP, cat_menu, cat_menu.png
+
+
+// Power ups
+BITMAP, shield,shield.png
+BITMAP, power,power.png
+BITMAP, star,star.png
+BITMAP, star_small,star_small.png
+BITMAP, coin,coin.png
+BITMAP, coin_small,coin_small.png
+BITMAP, heart,heart.png
+BITMAP, time,time.png
+
+
+// Bars
+BITMAP, pink_bar, pink_bar.png
+BITMAP, lilac_bar, lilac_bar.png
+BITMAP, purple_bar, purple_bar.png
+BITMAP, rose_bar, rose_bar.png
+BITMAP, empty_bar, empty_bar.png
+BITMAP, empty_line_bar, empty_line_bar.png
+
+
+// Displays
+BITMAP, background, background.png
+BITMAP, menu, menu.png
+BITMAP, game_over, game_over.png
+BITMAP, first_place, first_place.png
+BITMAP, second_place, second_place.png
+BITMAP, third_place, third_place.png
+BITMAP, level_one, level_one.png
+BITMAP, level_two, level_two.png
+
