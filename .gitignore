@@ -1,0 +1,26 @@
+# ignore all generated python files
+.venv
+.vscode
+.idea
+.gitattributes
+.git
+.editorconfig
+
+# ignore all generated latex files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.dvi
+*.xdv
+*.lof
+*.lot
+*.xml
+
+
